@@ -43,3 +43,8 @@ This is a full-stack blogging application built with **React.js**, **Express.js*
   - Create or edit posts
   - Subscribe to other authors
   - Access real-time socket events and unseen notifications
+ 
+📌 Note
+All actions are secured — routes and real-time events are restricted to authenticated users.
+
+Notifications are stored in the database and delivered via sockets when online, or shown on login if offline.
