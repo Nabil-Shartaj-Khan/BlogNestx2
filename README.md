@@ -1,6 +1,6 @@
 # BlogNestx2
 
-<h1>A Real-Time Full-Stack Blogging Platform</h1>
+<h3>A Real-Time Full-Stack Blogging Platform</h3>
 
 This is a full-stack blogging application built with React.js, Express.js, MongoDB, and Socket.io. It features:
 
@@ -12,7 +12,7 @@ Real-time notifications for subscribers when an author publishes a new blog, pow
 
 Live subscription and notification tracking with missed notification recovery upon login
 
-💡 Users can:
+**💡 Users can:**
 
 Register and log in (locally or with Google)
 
@@ -24,7 +24,7 @@ Receive instant notifications for new posts
 
 View unseen notifications after login
 
-📦 Technologies used:
+**📦 Technologies used:**
 
 Frontend: React.js, React-Bootstrap
 
