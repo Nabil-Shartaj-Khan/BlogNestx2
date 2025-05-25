@@ -1,6 +1,6 @@
 # BlogNestx2
 
-A Real-Time Full-Stack Blogging Platform
+<h1>A Real-Time Full-Stack Blogging Platform</h1>
 
 This is a full-stack blogging application built with React.js, Express.js, MongoDB, and Socket.io. It features:
 
